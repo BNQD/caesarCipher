@@ -1,2 +1,2 @@
 require './cipher'
-run Sinatra::Aplication
+run Sinatra::Application
